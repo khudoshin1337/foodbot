@@ -1,0 +1,19 @@
+2025-02-02 20:09:56 - INFO - Start polling
+2025-02-02 20:09:57 - INFO - Run polling for bot @ermogenhrambot id=8079781572 - 'Храм Ермогена'
+2025-02-02 20:10:01 - INFO - Сообщение: Пользователь 473783794 (khudoshin) отправил: /start
+2025-02-02 20:10:01 - INFO - Update id=324139219 is handled. Duration 281 ms by bot id=8079781572
+2025-02-02 20:10:05 - INFO - Сообщение: Пользователь 473783794 (khudoshin) отправил: /set_profile
+2025-02-02 20:10:05 - INFO - Update id=324139220 is handled. Duration 125 ms by bot id=8079781572
+2025-02-02 20:10:06 - INFO - Сообщение: Пользователь 473783794 (khudoshin) отправил: 190
+2025-02-02 20:10:06 - INFO - Update id=324139221 is handled. Duration 125 ms by bot id=8079781572
+2025-02-02 20:10:12 - INFO - Сообщение: Пользователь 473783794 (khudoshin) отправил: 190
+2025-02-02 20:10:12 - INFO - Update id=324139222 is handled. Duration 93 ms by bot id=8079781572
+2025-02-02 20:10:16 - INFO - Сообщение: Пользователь 473783794 (khudoshin) отправил: 15
+2025-02-02 20:10:16 - INFO - Update id=324139223 is handled. Duration 172 ms by bot id=8079781572
+2025-02-02 20:10:17 - INFO - Сообщение: Пользователь 473783794 (khudoshin) отправил: 190
+2025-02-02 20:10:18 - INFO - Update id=324139224 is handled. Duration 108 ms by bot id=8079781572
+2025-02-02 20:10:19 - INFO - Сообщение: Пользователь 473783794 (khudoshin) отправил: москва
+2025-02-02 20:10:19 - INFO - Получена температура для города москва: 0.44°C
+2025-02-02 20:10:19 - INFO - Update id=324139225 is handled. Duration 202 ms by bot id=8079781572
+2025-02-02 20:10:46 - INFO - Polling stopped for bot @ermogenhrambot id=8079781572 - 'Храм Ермогена'
+2025-02-02 20:10:46 - INFO - Polling stopped
